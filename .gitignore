@@ -31,3 +31,7 @@ python/setup.cfg
 python/ember/*.cpp
 python/Ember.egg-info
 src/config.h
+
+# ember specific files from marina:
+*.ilk
+*.obj
